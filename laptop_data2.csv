@@ -1,0 +1,946 @@
+brand,price,ram_gb,storage_gb,storage_type,screen_size,os,processor_brand,processor_series,generation
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,69990,16,512.0,SSD,39.62,Windows 11,intel,i7,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+Acer,38990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Samsung,58150,16,512.0,SSD,39.62,Windows 11,intel,i7,13
+Acer,25500,8,512.0,SSD,29.46,Windows 11,intel,budget,0
+Samsung,53730,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+Lenovo,109990,32,1024.0,SSD,35.56,Windows 11,intel,i9,0
+Acer,45990,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+Lenovo,38990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+ASUS,42990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+Acer,35990,16,512.0,SSD,35.56,Windows 11,intel,i3,13
+HP,41380,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+Samsung,72790,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,39990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+Acer,34990,8,512.0,SSD,39.62,Windows 11,intel,i3,12
+Acer,29938,8,512.0,SSD,39.62,Windows 11,intel,budget,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Lenovo,52990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+Acer,24899,8,256.0,SSD,29.46,Windows 11,intel,budget,0
+Acer,59990,16,512.0,SSD,35.56,Windows 11,intel,i7,13
+HP,48390,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Lenovo,52099,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Lenovo,44590,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Acer,56990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+Acer,46990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+ASUS,68990,32,512.0,SSD,35.56,Windows 11,intel,i7,13
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Lenovo,57990,16,512.0,SSD,38.86,Windows 11,other,snapdragon,0
+ASUS,79990,32,1024.0,SSD,35.56,Windows 11,intel,i7,13
+ASUS,41990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Acer,35990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,59990,16,1024.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+Lenovo,36890,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+Lenovo,62990,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+Acer,28990,8,128.0,SSD,29.46,Windows 11,intel,budget,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+DELL,46990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,50990,12,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,69990,16,512.0,SSD,39.62,Windows 11,intel,i7,0
+Acer,64990,16,512.0,SSD,40.64,Windows 11,intel,i5,13
+ASUS,35190,8,512.0,SSD,35.56,Windows 11,amd,ryzen 3,0
+Acer,72990,32,1024.0,SSD,35.56,Windows 11,intel,i7,0
+Ultimus,18490,8,256.0,SSD,35.81,Windows,intel,other,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+MSI,42990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+Acer,31990,8,512.0,SSD,35.56,Windows 11,intel,other,12
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,36990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+HP,62990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+DELL,42990,8,512.0,SSD,38.1,Windows 11,intel,i3,0
+ASUS,65990,16,512.0,SSD,40.64,Windows 11,intel,i5,0
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+Acer,36990,16,512.0,SSD,39.62,Windows 11,intel,i3,12
+ASUS,72990,16,512.0,SSD,39.62,Windows 11,intel,i9,13
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+HP,36740,8,512.0,SSD,35.56,Windows 11,intel,budget,0
+ASUS,58990,32,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,47900,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,29990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+ASUS,53990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+HP,79399,16,512.0,SSD,40.89,Windows 11,intel,i5,14
+Acer,94990,16,512.0,SSD,40.64,Windows 11,intel,i5,0
+Acer,37990,16,512.0,SSD,35.56,Windows 11,intel,i5,12
+HP,39990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,35190,8,512.0,SSD,35.56,Windows 11,amd,ryzen 3,0
+ASUS,70990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Acer,32990,16,512.0,SSD,35.56,Windows 11,intel,other,12
+ASUS,42990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+Acer,49901,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Lenovo,52490,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+Acer,23990,8,256.0,SSD,29.46,Windows 11,intel,budget,0
+Lenovo,64990,16,1024.0,SSD,35.56,Windows 11,other,snapdragon,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+DELL,42990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Acer,79990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,42990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Lenovo,62990,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+DELL,40790,8,512.0,SSD,35.56,Windows 11,intel,i3,14
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Lenovo,64990,16,1024.0,SSD,35.56,Windows 11,other,snapdragon,0
+ASUS,70990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+HP,66999,16,1024.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Acer,94990,16,512.0,SSD,40.64,Windows 11,intel,i5,0
+ASUS,81990,32,512.0,SSD,39.62,Windows 11,intel,i7,0
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,395990,32,2048.0,SSD,40.64,Windows 11,intel,i9,14
+Acer,29990,12,256.0,SSD,35.56,Windows 11,intel,budget,0
+HP,72990,16,512.0,SSD,35.56,Windows 11,intel,i7,13
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+MSI,42990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,65100,16,512.0,SSD,40.64,Windows 11,intel,i5,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+Lenovo,48990,8,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+Lenovo,64990,16,512.0,SSD,39.62,Windows 11,intel,i7,12
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+Acer,34990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+Acer,36938,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,395990,32,2048.0,SSD,40.64,Windows 11,intel,i9,14
+Samsung,119990,16,1024.0,SSD,33.78,Windows 11,intel,i7,13
+Acer,69990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,69990,16,512.0,SSD,39.62,Windows 11,intel,i7,0
+Acer,31990,8,512.0,SSD,35.56,Windows 11,intel,other,12
+Lenovo,109990,32,1024.0,SSD,35.56,Windows 11,intel,i9,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Acer,38990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,279990,32,2048.0,SSD,40.64,Windows 11,intel,i9,14
+ASUS,41990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Acer,28990,8,128.0,SSD,29.46,Windows 11,intel,budget,0
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Lenovo,52490,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,33999,8,256.0,SSD,35.56,Windows 11,intel,i3,11
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,72990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+HP,40990,8,512.0,SSD,39.62,Windows 11,intel,i3,0
+HP,48999,8,512.0,SSD,39.62,Windows 11,intel,i5,12
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,72990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,52490,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+Acer,47490,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Acer,29990,12,256.0,SSD,35.56,Windows 11,intel,budget,0
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+Infinix,33990,16,512.0,SSD,40.64,Windows 11,intel,i3,13
+MOTOROLA,60990,16,512.0,SSD,35.56,Windows 11,intel,i7,0
+Lenovo,59490,12,512.0,SSD,39.62,Windows 11,intel,i5,12
+Acer,37990,16,512.0,SSD,35.56,Windows 11,intel,i5,12
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,81990,32,512.0,SSD,39.62,Windows 11,intel,i7,0
+HP,39450,8,512.0,SSD,39.62,Windows 11,intel,i3,14
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Acer,89999,16,1024.0,SSD,39.62,Windows 11,intel,i5,13
+HP,47900,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Acer,69990,16,512.0,SSD,39.62,Windows 11,intel,i7,13
+MSI,47990,16,512.0,SSD,35.56,Windows 11,intel,i5,12
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,101788,16,1024.0,SSD,35.56,Windows 11,intel,i5,13
+Samsung,119990,16,1024.0,SSD,33.78,Windows 11,intel,i7,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+HP,62990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+Acer,46965,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+HP,39450,8,512.0,SSD,39.62,Windows 11,intel,i3,14
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+MSI,42990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+Acer,53399,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+MSI,56990,8,512.0,SSD,35.56,Windows 11,intel,i7,12
+MOTOROLA,60990,16,512.0,SSD,35.56,Windows 11,intel,i7,0
+MSI,37990,16,512.0,SSD,35.56,Windows 11,intel,i3,12
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+Infinix,33990,16,512.0,SSD,40.64,Windows 11,intel,i3,13
+WINGS,37990,8,512.0,SSD,39.62,Windows 11,intel,i5,11
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Lenovo,52490,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+Acer,36990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+DELL,44260,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Lenovo,62490,16,512.0,SSD,38.86,Windows 11,intel,i5,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+HP,61490,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+MSI,36990,8,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+MSI,167680,16,1024.0,SSD,43.94,Windows 11,intel,i7,13
+ASUS,41990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+MSI,192678,16,1024.0,SSD,43.94,Windows 11,intel,i9,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+ASUS,59190,16,512.0,SSD,40.64,Windows 11,intel,i5,13
+Lenovo,38990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+Acer,94990,16,512.0,SSD,40.64,Windows 11,intel,i5,0
+Lenovo,115990,24,1024.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+ASUS,36990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+HP,39990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,36740,8,512.0,SSD,35.56,Windows 11,intel,budget,0
+HP,44990,8,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+ASUS,35190,8,512.0,SSD,35.56,Windows 11,amd,ryzen 3,0
+DELL,41490,8,512.0,SSD,39.62,Windows 11,intel,i3,14
+HP,76990,16,512.0,SSD,35.56,Windows 11,intel,i7,0
+Lenovo,92490,24,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,31990,8,512.0,SSD,39.62,Windows 11,intel,i3,12
+Lenovo,44590,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Acer,50990,12,512.0,SSD,39.62,Windows 11,intel,i5,12
+Samsung,127990,16,512.0,SSD,40.64,Windows 11,intel,i7,0
+HP,35528,8,256.0,SSD,39.62,Windows 11,amd,other,0
+MOTOROLA,64990,16,1024.0,SSD,35.56,Windows 11,intel,i7,0
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,69990,16,512.0,SSD,39.62,Windows 11,intel,i7,0
+Lenovo,69990,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Lenovo,41990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+HP,42490,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+DELL,48990,8,256.0,SSD,39.62,Windows 11,intel,i5,11
+DELL,44990,16,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+MSI,38990,16,512.0,SSD,38.1,Windows 11,intel,i3,12
+ASUS,57990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+DELL,40790,8,512.0,SSD,35.56,Windows 11,intel,i3,14
+ASUS,144990,32,1024.0,SSD,35.56,Windows 11,intel,i9,12
+Lenovo,50990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Lenovo,52990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,65990,16,512.0,SSD,35.56,Windows 11,other,snapdragon,0
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,62121,12,512.0,SSD,39.62,Windows 11,intel,i5,13
+MSI,59990,16,1024.0,SSD,38.1,Windows 11,intel,i7,12
+HP,119990,24,1024.0,SSD,39.62,Windows 11,intel,i7,0
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+MICROSOFT,112822,16,512.0,SSD,30.48,Windows 11,other,snapdragon,0
+Lenovo,286890,32,1024.0,SSD,40.64,Windows 11,intel,i9,0
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+HP,132990,24,1024.0,SSD,40.64,Windows 11,amd,other,0
+ASUS,58990,16,512.0,SSD,35.56,Windows 11,other,snapdragon,0
+Lenovo,59900,16,512.0,SSD,38.35,Windows 11,other,snapdragon,0
+Acer,46990,16,1024.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+DELL,122990,16,1024.0,SSD,40.64,Windows 11,intel,i7,0
+Lenovo,94990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Lenovo,66990,16,1024.0,SSD,38.86,Windows 11,intel,i5,13
+HP,69990,16,512.0,SSD,35.56,Windows 11,intel,i5,12
+HP,62990,8,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Acer,46990,16,1024.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+HP,99990,16,512.0,SSD,39.62,Windows 11,intel,i7,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+DELL,122990,16,1024.0,SSD,40.64,Windows 11,intel,i7,0
+Lenovo,78599,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+Acer,24990,8,256.0,SSD,35.56,Chrome OS,intel,i3,0
+ASUS,79990,32,1024.0,SSD,35.56,Windows 11,intel,i7,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Lenovo,76990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,58990,16,512.0,SSD,35.56,Windows 11,other,snapdragon,0
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+ASUS,89990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+Lenovo,60299,12,512.0,SSD,39.62,Windows 11,intel,i5,12
+Acer,62990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+DELL,39083,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,62121,12,512.0,SSD,39.62,Windows 11,intel,i5,13
+Lenovo,127990,16,1024.0,SSD,39.62,Windows 11,intel,i7,13
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+MSI,59990,16,1024.0,SSD,38.1,Windows 11,intel,i7,12
+HP,65990,16,512.0,SSD,40.64,Windows 11,intel,i5,0
+Acer,72990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+MSI,69990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Acer,72990,32,1024.0,SSD,35.56,Windows 11,intel,i7,0
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,32990,8,512.0,SSD,39.62,Windows 11,intel,budget,0
+ASUS,30990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+HP,67990,16,1024.0,SSD,39.62,Windows 11,intel,i5,14
+HP,84999,16,512.0,SSD,39.62,Windows 11,intel,i7,12
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+Samsung,82790,16,512.0,SSD,39.62,Windows 11,intel,i7,0
+ASUS,65990,16,512.0,SSD,40.64,Windows 11,intel,i5,0
+HP,159990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+MSI,129990,16,1024.0,SSD,40.64,Windows 11,intel,i7,0
+Acer,64990,16,512.0,SSD,35.56,Windows 11,intel,i7,0
+ASUS,65990,16,512.0,SSD,35.56,Windows 11,other,snapdragon,0
+HP,34490,8,512.0,SSD,35.56,Windows 11,amd,ryzen 3,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,74768,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+ASUS,74990,16,512.0,SSD,40.64,Windows 11,intel,i5,0
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+HP,54552,8,512.0,SSD,39.62,Windows 11,intel,i3,0
+HP,54999,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+Acer,88408,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+Acer,104990,16,512.0,SSD,40.64,Windows 11,intel,i5,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Lenovo,36890,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+realme,37947,8,256.0,SSD,35.56,Windows 10,intel,i3,11
+Lenovo,35499,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+Acer,59990,16,1024.0,SSD,35.56,Windows 11,intel,i5,0
+HP,99990,16,1024.0,SSD,35.56,Windows 11,other,snapdragon,0
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+Ultimus,15990,4,128.0,SSD,35.81,Windows,intel,other,0
+Acer,57490,16,1024.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,89990,16,512.0,SSD,35.56,Windows 11,other,snapdragon,0
+Acer,84800,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,40990,24,512.0,SSD,39.62,Windows 11,intel,i3,13
+Acer,72990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+ASUS,52990,16,512.0,SSD,40.64,Windows 11,other,snapdragon,0
+ASUS,97990,16,512.0,SSD,40.64,Windows 11,intel,i5,0
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Lenovo,76990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,35790,8,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+HP,43899,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Acer,119990,16,512.0,SSD,40.64,Windows 11,intel,i7,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Lenovo,53990,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,60549,16,1024.0,SSD,39.62,Windows 11,intel,i5,13
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+Lenovo,36999,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Lenovo,127990,16,1024.0,SSD,39.62,Windows 11,intel,i7,13
+ASUS,35190,8,512.0,SSD,35.56,Windows 11,amd,ryzen 3,0
+Samsung,173199,32,1024.0,SSD,40.64,Windows 11,intel,i7,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,44730,8,512.0,SSD,39.37,Windows 11,amd,ryzen 3,0
+Acer,32990,8,512.0,SSD,39.62,Windows 11,intel,budget,0
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+DELL,39790,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+DELL,43990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+realme,37947,8,256.0,SSD,35.56,Windows 10,intel,i3,11
+ASUS,59990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,63990,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+ASUS,50990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 7,0
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Acer,20990,8,512.0,SSD,35.56,Windows 11,intel,i3,11
+ASUS,66990,16,512.0,SSD,35.56,Windows 11,intel,i7,13
+MSI,47990,16,512.0,SSD,35.56,Windows 11,intel,i5,12
+DELL,42990,8,512.0,SSD,38.1,Windows 11,intel,i3,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Samsung,104199,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+MSI,109990,16,1024.0,SSD,33.78,Windows 11,intel,i5,1
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+Acer,75990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+DELL,42990,8,512.0,SSD,38.1,Windows 11,intel,i3,0
+ASUS,52990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,99990,16,512.0,SSD,39.62,Windows 11,intel,i7,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,86499,16,1024.0,SSD,35.56,Windows 11,intel,i5,13
+ASUS,37999,16,512.0,SSD,17.78,Windows 11,amd,other,0
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Lenovo,67990,16,512.0,SSD,33.78,Windows 11,amd,ryzen 7,0
+HP,50900,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+ASUS,72990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,33999,4,512.0,SSD,35.56,Windows 10,intel,i3,8
+HP,54400,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,57339,8,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,33999,4,256.0,SSD,35.56,Windows 10,intel,i3,10
+DELL,41999,8,512.0,SSD,39.62,Windows 11,intel,i3,14
+HP,55999,16,512.0,SSD,40.64,Windows 11,amd,ryzen 5,0
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+ASUS,55990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,58999,8,512.0,SSD,39.62,Windows 11,intel,i5,11
+ASUS,169990,16,1024.0,SSD,40.64,Windows 11,intel,i7,14
+HP,80999,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+DELL,39990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+MSI,69890,16,512.0,SSD,39.62,Windows 11,intel,i7,11
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,35990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+DELL,38990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,105990,16,1024.0,SSD,35.56,Windows 11,intel,i5,0
+HP,40980,16,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+Infinix,73477,32,1024.0,SSD,39.62,Windows 11,intel,i7,13
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,49999,8,512.0,SSD,39.62,Windows 11,intel,i5,12
+Lenovo,51490,16,512.0,SSD,35.56,Windows 11,intel,i5,12
+ASUS,40990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+MSI,42990,8,512.0,SSD,35.56,Windows 11,intel,i5,12
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,35990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+ASUS,169990,16,1024.0,SSD,40.64,Windows 11,intel,i7,14
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,35990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+ASUS,35990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+ASUS,65990,16,512.0,SSD,35.56,Windows 11,other,snapdragon,0
+ASUS,55990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+HP,159990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+HP,42990,16,512.0,SSD,35.56,Windows 11,intel,i3,13
+WINGS,37990,8,512.0,SSD,39.62,Windows 11,intel,i5,11
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,35190,8,512.0,SSD,35.81,Windows 11,amd,ryzen 3,0
+Lenovo,64990,16,512.0,SSD,38.86,Windows 11,intel,i5,0
+HP,101999,16,512.0,SSD,35.56,Windows 11,intel,i7,0
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+ASUS,69990,16,512.0,SSD,40.64,Windows 11,intel,i5,0
+HP,33778,8,1024.0,HDD,35.56,Windows,amd,other,0
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,54990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+Lenovo,36890,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+ASUS,68990,16,512.0,SSD,39.62,Windows 11,intel,i7,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+ASUS,42990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Lenovo,69990,24,1024.0,SSD,38.86,Windows 11,intel,i5,0
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+Lenovo,41990,16,512.0,SSD,39.62,Windows 11,intel,i3,12
+Lenovo,50990,16,512.0,SSD,35.56,Windows 11,intel,i5,12
+MSI,63290,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Infinix,46699,8,512.0,SSD,35.56,Windows 11,intel,i7,10
+Infinix,68381,16,512.0,SSD,38.86,Windows 11,intel,i7,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+HP,52490,8,512.0,SSD,35.56,Windows 11,intel,i5,14
+Lenovo,76999,16,1024.0,SSD,40.64,Windows 11,intel,i5,13
+Lenovo,125990,24,1024.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+ASUS,35915,8,512.0,SSD,35.56,Windows 11,amd,ryzen 3,0
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Infinix,54990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,27990,8,512.0,SSD,39.62,Windows 11,intel,i3,10
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Lenovo,45990,24,512.0,SSD,35.56,Windows 11,intel,i3,13
+HP,41990,8,512.0,SSD,39.62,Windows,amd,ryzen 5,0
+HP,64990,16,512.0,SSD,35.56,Windows 11,intel,i5,12
+Lenovo,178799,16,1024.0,SSD,33.78,Windows 11,intel,i7,13
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Acer,48990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+HP,44990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,52980,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,38539,8,512.0,SSD,35.56,Windows 11,amd,ryzen 5,7
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+DELL,68990,16,512.0,SSD,33.78,Windows 11,intel,i5,0
+DELL,53990,8,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+HP,40880,16,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+Lenovo,48999,8,512.0,SSD,35.56,Windows 11,intel,i5,12
+DELL,39990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+MSI,45899,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+Lenovo,36999,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+ASUS,33499,8,512.0,SSD,39.62,Windows 11,intel,i3,12
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+MSI,67500,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,36990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+Lenovo,35990,8,512.0,SSD,35.56,Windows 11,intel,i3,12
+Infinix,73199,16,512.0,SSD,39.62,Windows 11,intel,i7,12
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+HP,93999,16,512.0,SSD,39.62,Windows 11,intel,i7,12
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,12
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Lenovo,78990,24,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,59990,16,1024.0,SSD,35.56,Windows 11,intel,i5,0
+Samsung,127990,16,512.0,SSD,40.64,Windows 11,intel,i7,0
+DELL,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Acer,59990,16,1024.0,SSD,39.62,Windows 11,intel,i7,12
+HP,35990,8,256.0,SSD,39.62,Windows 11,amd,other,0
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+Acer,57990,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+HP,38800,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+Lenovo,39800,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+DELL,44990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,38891,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+Lenovo,84799,16,1024.0,SSD,35.56,Windows 11,intel,i7,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+ASUS,39990,8,512.0,SSD,35.56,Windows 11,intel,i3,11
+Acer,75666,16,512.0,SSD,39.62,Windows 11,intel,i7,13
+ASUS,64990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+DELL,64990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,47990,8,512.0,SSD,39.62,Windows 11,intel,i5,0
+Lenovo,48999,8,512.0,SSD,35.56,Windows 11,intel,i5,12
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+HP,73799,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+HP,38790,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,27990,8,512.0,SSD,39.62,Windows 11,intel,i3,10
+ASUS,42990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+DELL,39490,8,256.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+Lenovo,79990,16,1024.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+Lenovo,48990,8,512.0,SSD,35.56,Windows 11,intel,i5,13
+Lenovo,83990,16,512.0,SSD,35.56,Windows 11,intel,i7,13
+Acer,55999,8,512.0,SSD,39.62,Windows 11,intel,i5,12
+HP,40490,8,512.0,SSD,35.56,Windows 11,intel,i3,0
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,35990,8,256.0,SSD,39.62,Windows 11,amd,other,0
+HP,113320,16,1024.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+WINGS,42990,16,512.0,SSD,35.56,Windows 11,intel,i7,11
+DELL,131990,16,1024.0,SSD,39.62,Windows 11,intel,i7,13
+ASUS,58990,8,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+HP,38990,8,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+MICROSOFT,111102,16,256.0,SSD,30.48,Windows 11,other,snapdragon,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,69990,16,512.0,SSD,39.62,Windows 11,intel,i7,0
+DELL,42990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+DELL,37900,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+HP,117000,16,1024.0,SSD,40.89,Windows 11,intel,i7,14
+DELL,55990,8,512.0,SSD,39.62,Windows 11,intel,i5,12
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+DELL,44990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,69897,16,512.0,SSD,39.62,Windows 11,intel,i7,13
+MSI,129990,16,1024.0,SSD,39.62,Windows 11,intel,i7,0
+DELL,54490,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,63990,16,512.0,SSD,40.64,Windows 11,intel,i5,13
+HP,56999,8,512.0,SSD,39.62,Windows 10,intel,i5,11
+ASUS,58990,16,512.0,SSD,35.56,Windows 11,other,snapdragon,0
+ASUS,34899,4,256.0,SSD,39.62,Windows 10,intel,other,0
+HP,45895,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,159990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+Lenovo,79990,16,512.0,SSD,39.62,Windows 11,intel,i7,0
+HP,39780,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+DELL,69990,16,512.0,SSD,39.62,Windows 11,intel,i7,13
+HP,64990,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+Acer,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,12
+Acer,23988,8,256.0,SSD,29.46,Windows 11,intel,budget,0
+Acer,59990,16,512.0,SSD,35.56,Windows 11,other,snapdragon,0
+Acer,56990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+DELL,44990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Lenovo,38500,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+DELL,40790,8,512.0,SSD,35.56,Windows 11,intel,i3,14
+DELL,54490,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,63990,16,512.0,SSD,40.64,Windows 11,intel,i5,13
+DELL,37999,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+HP,41999,16,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+ASUS,35990,8,512.0,SSD,35.56,Windows 11,amd,ryzen 3,0
+Infinix,84990,16,512.0,SSD,40.64,Windows 11,intel,i7,12
+HP,159990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+Lenovo,79990,16,512.0,SSD,39.62,Windows 11,intel,i7,0
+MICROSOFT,99990,16,256.0,SSD,33.02,Windows 11,other,snapdragon,0
+Lenovo,51990,8,512.0,SSD,40.64,Windows 11,amd,ryzen 5,7
+DELL,69990,16,512.0,SSD,39.62,Windows 11,intel,i7,13
+HP,64990,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+HP,38499,8,512.0,SSD,35.56,Windows 11,amd,ryzen 3,0
+Infinix,49990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Acer,90999,16,1024.0,SSD,35.56,Windows 11,intel,i7,0
+ASUS,130990,32,1024.0,SSD,35.56,Windows 11,intel,i9,0
+Lenovo,109990,32,1024.0,SSD,35.56,Windows 11,intel,i9,0
+Lenovo,125990,24,1024.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+ASUS,139990,32,1024.0,SSD,35.56,Windows 11,intel,i9,0
+HP,33778,8,1024.0,HDD,35.56,Windows,amd,other,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Lenovo,35990,8,512.0,SSD,39.62,Windows 11,intel,budget,0
+ASUS,73199,16,512.0,SSD,40.64,Windows 11,intel,i7,12
+HP,39800,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,185999,32,1024.0,SSD,40.64,Windows 11,intel,i7,0
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+Samsung,119990,32,1024.0,SSD,39.62,Windows 11,intel,i7,0
+DELL,64990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,42990,16,512.0,SSD,35.56,Windows 11,intel,i3,13
+Acer,52999,16,512.0,SSD,35.56,Windows 10,amd,ryzen 5,0
+Acer,44990,8,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,65200,8,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Lenovo,51490,16,512.0,SSD,35.56,Windows 11,intel,i5,12
+Acer,159990,16,1024.0,SSD,40.64,Windows 11,intel,i7,0
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,55276,8,512.0,SSD,39.62,Windows 11,intel,i5,13
+Lenovo,112999,16,1024.0,SSD,35.56,Windows 11,intel,i7,13
+Lenovo,58990,24,512.0,SSD,35.56,Windows 11,intel,i5,13
+Acer,47100,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+Lenovo,47990,8,512.0,SSD,35.56,Windows 11,intel,i3,11
+Acer,60990,16,512.0,SSD,40.89,Windows 11,intel,i5,11
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+Lenovo,35990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+HP,45800,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+DELL,40019,8,256.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Infinix,61999,16,1024.0,SSD,39.62,Windows 11,intel,i7,11
+MICROSOFT,184990,16,1024.0,SSD,33.02,Windows 11,other,snapdragon,0
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,53990,8,512.0,SSD,39.62,Windows 11,intel,i5,13
+MSI,79854,16,1024.0,SSD,39.62,Windows 11,intel,i7,12
+Acer,45990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+MOTOROLA,84990,32,1024.0,SSD,35.56,Windows 11,intel,i7,0
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,39999,8,256.0,SSD,39.62,Windows 11,intel,i3,11
+ASUS,76990,16,512.0,SSD,35.56,Windows 11,other,snapdragon,0
+Lenovo,79690,16,1024.0,SSD,35.56,Windows 11,intel,i5,13
+ASUS,139990,32,1024.0,SSD,35.56,Windows 11,intel,i9,0
+MSI,53990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Lenovo,41990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+DELL,55990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,49999,8,512.0,SSD,39.62,Windows 10,amd,ryzen 5,0
+Lenovo,92990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+DELL,42990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+Avita,34999,8,512.0,SSD,35.81,Windows,intel,i5,12
+Acer,149070,16,1024.0,SSD,40.64,Windows 11,intel,i9,13
+HP,48676,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+ASUS,69990,16,512.0,SSD,40.64,Windows 11,intel,i5,12
+DELL,41990,16,512.0,SSD,39.62,Windows 11,intel,i3,12
+HP,38499,8,512.0,SSD,35.56,Windows 11,amd,ryzen 3,0
+ASUS,68990,16,512.0,SSD,40.64,Windows 11,intel,i7,13
+Acer,89100,16,512.0,SSD,40.64,Windows 11,intel,i7,13
+ASUS,56990,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+HP,50990,8,512.0,SSD,39.62,Windows 11,intel,i3,12
+ASUS,62990,8,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,41612,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+MSI,66720,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,51990,8,512.0,SSD,35.56,Windows 11,intel,i5,11
+ASUS,39990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+HP,57499,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+DELL,90990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+DELL,68990,8,1024.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,65200,8,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+Lenovo,50990,16,512.0,SSD,35.56,Windows 11,intel,i5,12
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+Lenovo,63490,16,512.0,SSD,35.56,Windows 11,intel,i5,12
+HP,64799,16,512.0,SSD,35.56,Windows 11,intel,i5,11
+MSI,63290,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+DELL,59071,8,512.0,SSD,35.56,Windows 10,intel,i5,11
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,93990,16,512.0,SSD,39.62,Windows 11,amd,ryzen 7,0
+Acer,41990,8,512.0,SSD,39.62,Windows 11,intel,i5,11
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+MSI,88990,16,512.0,SSD,39.62,Windows 11,intel,i7,13
+HP,34982,8,256.0,SSD,39.62,Windows 11,intel,budget,0
+Lenovo,128990,24,512.0,SSD,39.62,Windows 11,intel,i7,13
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Acer,149070,16,1024.0,SSD,40.64,Windows 11,intel,i9,13
+DELL,82490,16,512.0,SSD,35.56,Windows 11,other,snapdragon,0
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+DELL,38990,8,512.0,SSD,35.56,Windows 11,intel,i3,12
+Infinix,73477,32,1024.0,SSD,39.62,Windows 11,intel,i7,13
+Lenovo,54499,16,512.0,SSD,35.56,Windows 11,intel,i5,12
+HP,40990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Lenovo,83999,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,98790,16,1024.0,SSD,39.62,Windows 11,intel,i9,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,112490,16,1024.0,SSD,35.56,Windows 11,other,snapdragon,0
+Lenovo,35990,8,512.0,SSD,39.62,Windows 11,intel,budget,0
+MSI,66720,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+Acer,45990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+HP,49775,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,49775,16,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Lenovo,41990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+Lenovo,35990,8,512.0,SSD,39.62,Windows 11,intel,budget,0
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+MSI,66720,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,45990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,104932,16,512.0,SSD,39.62,Windows 11,intel,i7,13
+HP,45497,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Lenovo,42990,8,512.0,SSD,39.62,Windows 11,intel,i3,12
+DELL,62990,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Acer,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,12
+ASUS,43790,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,35990,8,512.0,SSD,35.56,Windows 11,amd,ryzen 3,0
+HP,185999,32,1024.0,SSD,40.64,Windows 11,intel,i7,0
+DELL,36990,8,512.0,SSD,39.62,Windows 11,amd,ryzen 5,5
+DELL,55990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,38001,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+HP,75999,16,512.0,SSD,39.62,Windows 11,intel,i7,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+MICROSOFT,142990,16,256.0,SSD,38.1,Windows 11,other,snapdragon,0
+HP,33778,8,1024.0,HDD,35.56,Windows,amd,other,0
+Lenovo,64990,16,512.0,SSD,39.62,Windows 11,intel,i7,12
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+MSI,279990,16,2048.0,SSD,43.94,Windows 11,intel,i7,13
+DELL,42990,16,512.0,SSD,39.62,Windows 11,intel,i3,12
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+HP,57900,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+Samsung,54990,8,512.0,SSD,39.62,Windows 11,intel,i5,0
+MSI,78719,16,1024.0,SSD,39.62,Windows 11,intel,i7,12
+ASUS,110990,16,512.0,SSD,35.56,Windows 11,intel,i7,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,69990,16,512.0,SSD,39.62,Windows 11,intel,i7,0
+MSI,133990,16,1024.0,SSD,40.64,Windows 11,intel,i7,14
+Lenovo,94990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,67990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+Acer,89990,16,1024.0,SSD,35.56,Windows 11,intel,i7,0
+DELL,59497,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+DELL,54990,8,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+DELL,42990,16,512.0,SSD,39.62,Windows 11,intel,i3,12
+HP,45890,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Acer,69999,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,35250,8,512.0,SSD,35.56,Windows 11,amd,ryzen 3,3
+ASUS,79999,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+Lenovo,38500,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Infinix,40990,8,512.0,SSD,35.56,Windows 11,intel,i5,10
+DELL,41500,8,256.0,SSD,35.56,Windows 10,intel,i3,11
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,187490,32,1024.0,SSD,35.56,Windows 11,intel,i7,0
+ASUS,57790,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+DELL,55900,8,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,74990,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+HP,41999,16,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+ASUS,35990,8,512.0,SSD,35.56,Windows 11,amd,ryzen 3,0
+Lenovo,85371,8,512.0,SSD,35.56,Windows 11,amd,ryzen 3,0
+HP,69800,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,45895,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,82990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,52000,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+DELL,70990,16,512.0,SSD,35.56,Windows 11,intel,i5,13
+MSI,94990,16,1024.0,SSD,33.78,Windows 11,intel,i7,0
+Lenovo,144990,16,1024.0,SSD,40.64,Windows 11,intel,i7,14
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+Acer,56019,16,1024.0,SSD,39.62,Windows 11,amd,ryzen 5,0
+ASUS,184990,32,1024.0,SSD,39.62,Windows 10,amd,ryzen 9,0
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,38990,8,512.0,SSD,35.56,Windows 11,intel,i3,11
+HP,65198,16,1024.0,SSD,39.62,Windows 11,intel,i5,12
+DELL,71490,8,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,174990,16,1024.0,SSD,40.64,Windows 11,intel,i7,0
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,38799,8,512.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+MICROSOFT,103822,16,256.0,SSD,30.48,Windows 11,other,snapdragon,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+Lenovo,81990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+HP,86990,16,512.0,SSD,33.78,Windows 11,amd,ryzen 7,0
+ASUS,36361,4,256.0,SSD,39.62,Windows 11,intel,budget,0
+Lenovo,69900,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+HP,159990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+HP,47990,24,512.0,SSD,39.62,Windows 11,intel,i3,14
+ASUS,34899,4,256.0,SSD,39.62,Windows 10,intel,other,0
+ASUS,37990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,56990,16,512.0,SSD,39.62,Windows 11,intel,i5,0
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,11
+ASUS,79990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,45799,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+Acer,54990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+ASUS,39990,16,512.0,SSD,39.62,Windows 11,intel,i3,13
+HP,149990,24,1024.0,SSD,38.86,Windows 11,intel,i7,14
+Lenovo,39990,8,512.0,SSD,35.56,Windows 11,intel,i3,13
+ASUS,37990,8,256.0,SSD,39.62,Windows 11,intel,i3,11
+ASUS,37990,8,512.0,SSD,39.62,Windows 11,intel,i3,13
+ASUS,58990,16,512.0,SSD,39.62,Windows 11,intel,i5,13
+HP,174227,16,512.0,SSD,43.94,Windows 11,intel,i7,13
+ASUS,54500,16,512.0,SSD,40.64,Windows 11,intel,snapdragon,0
+DELL,107390,16,512.0,SSD,39.62,Windows 11,intel,i7,13
+DELL,39490,8,256.0,SSD,39.62,Windows 11,amd,ryzen 3,0
+Acer,38990,16,512.0,SSD,35.56,Windows 11,amd,ryzen 5,0
+ASUS,58990,32,512.0,SSD,35.56,Windows 11,intel,i5,13
+Colorful,57990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+Infinix,84990,16,512.0,SSD,40.64,Windows 11,intel,i7,12
+DELL,79990,16,512.0,SSD,35.56,Windows 11,intel,i5,0
+ASUS,69990,32,512.0,SSD,39.62,Windows 11,intel,i5,0
+DELL,49990,16,512.0,SSD,39.62,Windows 11,intel,i5,12
+ASUS,81900,16,512.0,SSD,35.56,Windows 11,intel,i7,0
